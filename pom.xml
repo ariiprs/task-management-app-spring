@@ -8,6 +8,7 @@
 		<version>3.4.5</version>
 		<relativePath/>
 	</parent>
+	<!--ini -->
 	<groupId>com.bni</groupId>
 	<artifactId>taskmgtapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
